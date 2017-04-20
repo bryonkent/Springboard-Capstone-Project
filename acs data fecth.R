@@ -1,0 +1,59 @@
+library(acs)
+
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B01003",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B01001",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B01001A",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B01001B",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B01001C",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B01001D",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B01001E",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B02001",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B02006",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B12002A",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B12002B",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B12002C",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B12002D",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B12002E",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B14007A",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B14007B",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B14007C",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B14007D",
+          dataset = "acs", col.names = "pretty")
+acs.fetch(endyear = 2014, span = 5,
+          geography = geo.make("*"), table.number = "B14007E",
+          dataset = "acs", col.names = "pretty")
