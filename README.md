@@ -1,0 +1,2 @@
+# Springboard-Capstone-Project
+One of the largest epidemics sweeping the veterans community is that of suicide, with roughly 22 people a day committing suicide due to a number of often-times interrelated reasons. I would like to create a model that predicts the risk level for veteran suicide in a given community. Ones with a higher risk profile could then be targeted for specialized programs to increase awareness and to ensure that the proper resources are put in place to help eradicate this phenomena.
